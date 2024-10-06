@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="20025" start="node8" appversion="7.0.10">
+  <panorama id="node8" hideabout="1">
+    <input levelbiashidpi="1.000" overlap="1" height="2000" levelbias="0.400" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" width="2000" leveltilesize="510" levelingpitch="0">
+      <level predecode="0" width="2000" height="2000" preload="0"/>
+      <level predecode="0" width="1000" height="1000" preload="0"/>
+      <level predecode="1" width="500" height="500" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="147.14" tilt="-2.40435" pan="-176.483" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" scaletofit="1" tilt="90" pan="360" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata author="" latitude="35.878269" comment="" info="" nodeid="node8" tags="대구 힐스테이트 달성공원역 101동 1002호 VR촬영" customnodeid="" copyright="" source="" longitude="128.582342" datetime="2024:09:28 19:47:42" description="" title="세대입구" altitude="64.00" heading="0"/>
+    <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
+      <label textcolor="0x000000" borderalpha="1" borderradius="1" backgroundalpha="1" height="20" textalpha="1" enabled="1" border="1" width="180" backgroundcolor="0xffffff" bordercolor="0x000000" background="1" wordwrap="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" url="{node18}" skinid="ht_node" tilt="-25.21" pan="-180.81" title="현관" description="" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomspeed="2" type="crossdissolve" zoomafteroutfov="40" zoomin="0" blendcolor="0x000000" zoomafterinfov="140" softedge="0" zoomoutpause="1" enabled="1" zoomout="0" delay="none" blendtime="1"/>
+    <autorotate nodedelay="0.00" speed="0.020" noderandom="1" nodefilter="" returntohorizon="0.000" useanimation="0" enabled="1" horizonfromdefview="0" delay="10.00" startloaded="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control contextprojections="0" rubberband="0" invertcontrol="1" contextvr="1" simulatemass="1" lockedmouse="0" sensitivity="8" contextfullscreen="1" invertwheel="0" zoomcentercursor="1" lockedkeyboardzoom="0" hideabout="1" lockedkeyboard="0" speedwheel="1" lockedwheel="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node18" hideabout="1">
+    <input levelbiashidpi="1.000" overlap="1" height="2000" levelbias="0.400" leveltileurl="tiles/node18/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" width="2000" leveltilesize="510" levelingpitch="0">
+      <level predecode="0" width="2000" height="2000" preload="0"/>
+      <level predecode="0" width="1000" height="1000" preload="0"/>
+      <level predecode="1" width="500" height="500" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="147.14" tilt="0.341668" pan="176.701" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" scaletofit="1" tilt="90" pan="360" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata author="" latitude="35.878269" comment="" info="" nodeid="node18" tags="대구 힐스테이트 달성공원역 101동 1002호 VR촬영" customnodeid="" copyright="" source="" longitude="128.582342" datetime="2024:09:28 19:47:55" description="" title="현관" altitude="64.00" heading="0"/>
+    <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
+      <label textcolor="0x000000" borderalpha="1" borderradius="1" backgroundalpha="1" height="20" textalpha="1" enabled="1" border="1" width="180" backgroundcolor="0xffffff" bordercolor="0x000000" background="1" wordwrap="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" url="{node8}" skinid="ht_node" tilt="-29.05" pan="-0.21" title="세대입구" description="" target=""/>
+      <hotspot id="Point02" url="{node19}" skinid="ht_node" tilt="-28.96" pan="-247.91" title="현관창고" description="" target=""/>
+      <hotspot id="Point03" url="{node6}" skinid="ht_node" tilt="-35.18" pan="-184.81" title="복도3" description="" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomspeed="2" type="crossdissolve" zoomafteroutfov="40" zoomin="0" blendcolor="0x000000" zoomafterinfov="140" softedge="0" zoomoutpause="1" enabled="1" zoomout="0" delay="none" blendtime="1"/>
+    <autorotate nodedelay="0.00" speed="0.020" noderandom="1" nodefilter="" returntohorizon="0.000" useanimation="0" enabled="1" horizonfromdefview="0" delay="10.00" startloaded="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control contextprojections="0" rubberband="0" invertcontrol="1" contextvr="1" simulatemass="1" lockedmouse="0" sensitivity="8" contextfullscreen="1" invertwheel="0" zoomcentercursor="1" lockedkeyboardzoom="0" hideabout="1" lockedkeyboard="0" speedwheel="1" lockedwheel="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node19" hideabout="1">
+    <input levelbiashidpi="1.000" overlap="1" height="2000" levelbias="0.400" leveltileurl="tiles/node19/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" width="2000" leveltilesize="510" levelingpitch="0">
+      <level predecode="0" width="2000" height="2000" preload="0"/>
+      <level predecode="0" width="1000" height="1000" preload="0"/>
+      <level predecode="1" width="500" height="500" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="147.14" tilt="0.340318" pan="176.657" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" scaletofit="1" tilt="90" pan="360" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata author="" latitude="35.878269" comment="" info="" nodeid="node19" tags="대구 힐스테이트 달성공원역 101동 1002호 VR촬영" customnodeid="" copyright="" source="" longitude="128.582342" datetime="2024:09:28 19:50:52" description="" title="현관창고" altitude="64.00" heading="0"/>
+    <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
+      <label textcolor="0x000000" borderalpha="1" borderradius="1" backgroundalpha="1" height="20" textalpha="1" enabled="1" border="1" width="180" backgroundcolor="0xffffff" bordercolor="0x000000" background="1" wordwrap="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" url="{node18}" skinid="ht_node" tilt="-43.05" pan="-6.41" title="현관" description="" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomspeed="2" type="crossdissolve" zoomafteroutfov="40" zoomin="0" blendcolor="0x000000" zoomafterinfov="140" softedge="0" zoomoutpause="1" enabled="1" zoomout="0" delay="none" blendtime="1"/>
+    <autorotate nodedelay="0.00" speed="0.020" noderandom="1" nodefilter="" returntohorizon="0.000" useanimation="0" enabled="1" horizonfromdefview="0" delay="10.00" startloaded="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control contextprojections="0" rubberband="0" invertcontrol="1" contextvr="1" simulatemass="1" lockedmouse="0" sensitivity="8" contextfullscreen="1" invertwheel="0" zoomcentercursor="1" lockedkeyboardzoom="0" hideabout="1" lockedkeyboard="0" speedwheel="1" lockedwheel="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node10" hideabout="1">
+    <input levelbiashidpi="1.000" overlap="1" height="2000" levelbias="0.400" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" width="2000" leveltilesize="510" levelingpitch="0">
+      <level predecode="0" width="2000" height="2000" preload="0"/>
+      <level predecode="0" width="1000" height="1000" preload="0"/>
+      <level predecode="1" width="500" height="500" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="147.14" tilt="-0.210663" pan="-172.481" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" scaletofit="1" tilt="90" pan="360" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata author="" latitude="35.878269" comment="" info="" nodeid="node10" tags="대구 힐스테이트 달성공원역 101동 1002호 VR촬영" customnodeid="" copyright="" source="" longitude="128.582342" datetime="2024:09:28 19:49:50" description="" title="안방" altitude="64.00" heading="0"/>
+    <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
+      <label textcolor="0x000000" borderalpha="1" borderradius="1" backgroundalpha="1" height="20" textalpha="1" enabled="1" border="1" width="180" backgroundcolor="0xffffff" bordercolor="0x000000" background="1" wordwrap="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" url="{node3}" skinid="ht_node" tilt="-16.03" pan="-331.78" title="드레스룸" description="" target=""/>
+      <hotspot id="Point02" url="{node12}" skinid="ht_node" tilt="-11.33" pan="-7.28" title="욕실2" description="" target=""/>
+      <hotspot id="Point03" url="{node13}" skinid="ht_node" tilt="-18.44" pan="-52.95" title="복도1" description="" target=""/>
+      <hotspot id="Point04" url="{node4}" skinid="ht_node" tilt="-10.75" pan="-144.63" title="발코니1" description="" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomspeed="2" type="crossdissolve" zoomafteroutfov="40" zoomin="0" blendcolor="0x000000" zoomafterinfov="140" softedge="0" zoomoutpause="1" enabled="1" zoomout="0" delay="none" blendtime="1"/>
+    <autorotate nodedelay="0.00" speed="0.020" noderandom="1" nodefilter="" returntohorizon="0.000" useanimation="0" enabled="1" horizonfromdefview="0" delay="10.00" startloaded="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control contextprojections="0" rubberband="0" invertcontrol="1" contextvr="1" simulatemass="1" lockedmouse="0" sensitivity="8" contextfullscreen="1" invertwheel="0" zoomcentercursor="1" lockedkeyboardzoom="0" hideabout="1" lockedkeyboard="0" speedwheel="1" lockedwheel="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node3" hideabout="1">
+    <input levelbiashidpi="1.000" overlap="1" height="2000" levelbias="0.400" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" width="2000" leveltilesize="510" levelingpitch="0">
+      <level predecode="0" width="2000" height="2000" preload="0"/>
+      <level predecode="0" width="1000" height="1000" preload="0"/>
+      <level predecode="1" width="500" height="500" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="147.14" tilt="-1.98772" pan="-4.22279" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" scaletofit="1" tilt="90" pan="360" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata author="" latitude="35.878269" comment="" info="" nodeid="node3" tags="대구 힐스테이트 달성공원역 101동 1002호 VR촬영" customnodeid="" copyright="" source="" longitude="128.582342" datetime="2024:09:28 19:50:33" description="" title="드레스룸" altitude="64.00" heading="0"/>
+    <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
+      <label textcolor="0x000000" borderalpha="1" borderradius="1" backgroundalpha="1" height="20" textalpha="1" enabled="1" border="1" width="180" backgroundcolor="0xffffff" bordercolor="0x000000" background="1" wordwrap="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" url="{node10}" skinid="ht_node" tilt="-16.92" pan="-180.59" title="안방" description="" target=""/>
+      <hotspot id="Point02" url="{node2}" skinid="ht_node" tilt="-15.96" pan="-1.53" title="대피공간" description="" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomspeed="2" type="crossdissolve" zoomafteroutfov="40" zoomin="0" blendcolor="0x000000" zoomafterinfov="140" softedge="0" zoomoutpause="1" enabled="1" zoomout="0" delay="none" blendtime="1"/>
+    <autorotate nodedelay="0.00" speed="0.020" noderandom="1" nodefilter="" returntohorizon="0.000" useanimation="0" enabled="1" horizonfromdefview="0" delay="10.00" startloaded="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control contextprojections="0" rubberband="0" invertcontrol="1" contextvr="1" simulatemass="1" lockedmouse="0" sensitivity="8" contextfullscreen="1" invertwheel="0" zoomcentercursor="1" lockedkeyboardzoom="0" hideabout="1" lockedkeyboard="0" speedwheel="1" lockedwheel="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node12" hideabout="1">
+    <input levelbiashidpi="1.000" overlap="1" height="2000" levelbias="0.400" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" width="2000" leveltilesize="510" levelingpitch="0">
+      <level predecode="0" width="2000" height="2000" preload="0"/>
+      <level predecode="0" width="1000" height="1000" preload="0"/>
+      <level predecode="1" width="500" height="500" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="147.14" tilt="-1.17966" pan="-174.82" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" scaletofit="1" tilt="90" pan="360" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata author="" latitude="35.878269" comment="" info="" nodeid="node12" tags="대구 힐스테이트 달성공원역 101동 1002호 VR촬영" customnodeid="" copyright="" source="" longitude="128.582342" datetime="2024:09:28 19:50:22" description="" title="욕실2" altitude="64.00" heading="0"/>
+    <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
+      <label textcolor="0x000000" borderalpha="1" borderradius="1" backgroundalpha="1" height="20" textalpha="1" enabled="1" border="1" width="180" backgroundcolor="0xffffff" bordercolor="0x000000" background="1" wordwrap="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" url="{node10}" skinid="ht_node" tilt="-26.83" pan="-280.06" title="안방" description="" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomspeed="2" type="crossdissolve" zoomafteroutfov="40" zoomin="0" blendcolor="0x000000" zoomafterinfov="140" softedge="0" zoomoutpause="1" enabled="1" zoomout="0" delay="none" blendtime="1"/>
+    <autorotate nodedelay="0.00" speed="0.020" noderandom="1" nodefilter="" returntohorizon="0.000" useanimation="0" enabled="1" horizonfromdefview="0" delay="10.00" startloaded="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control contextprojections="0" rubberband="0" invertcontrol="1" contextvr="1" simulatemass="1" lockedmouse="0" sensitivity="8" contextfullscreen="1" invertwheel="0" zoomcentercursor="1" lockedkeyboardzoom="0" hideabout="1" lockedkeyboard="0" speedwheel="1" lockedwheel="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node4" hideabout="1">
+    <input levelbiashidpi="1.000" overlap="1" height="2000" levelbias="0.400" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" width="2000" leveltilesize="510" levelingpitch="0">
+      <level predecode="0" width="2000" height="2000" preload="0"/>
+      <level predecode="0" width="1000" height="1000" preload="0"/>
+      <level predecode="1" width="500" height="500" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="147.14" tilt="-1.18137" pan="-174.829" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" scaletofit="1" tilt="90" pan="360" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata author="" latitude="35.878269" comment="" info="" nodeid="node4" tags="대구 힐스테이트 달성공원역 101동 1002호 VR촬영" customnodeid="" copyright="" source="" longitude="128.582342" datetime="2024:09:28 19:49:59" description="" title="발코니1" altitude="64.00" heading="0"/>
+    <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
+      <label textcolor="0x000000" borderalpha="1" borderradius="1" backgroundalpha="1" height="20" textalpha="1" enabled="1" border="1" width="180" backgroundcolor="0xffffff" bordercolor="0x000000" background="1" wordwrap="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" url="{node10}" skinid="ht_node" tilt="-25.78" pan="-3.35" title="안방" description="" target=""/>
+      <hotspot id="Point02" url="{node9}" skinid="ht_node" tilt="-25.66" pan="-253.82" title="실외기실" description="" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomspeed="2" type="crossdissolve" zoomafteroutfov="40" zoomin="0" blendcolor="0x000000" zoomafterinfov="140" softedge="0" zoomoutpause="1" enabled="1" zoomout="0" delay="none" blendtime="1"/>
+    <autorotate nodedelay="0.00" speed="0.020" noderandom="1" nodefilter="" returntohorizon="0.000" useanimation="0" enabled="1" horizonfromdefview="0" delay="10.00" startloaded="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control contextprojections="0" rubberband="0" invertcontrol="1" contextvr="1" simulatemass="1" lockedmouse="0" sensitivity="8" contextfullscreen="1" invertwheel="0" zoomcentercursor="1" lockedkeyboardzoom="0" hideabout="1" lockedkeyboard="0" speedwheel="1" lockedwheel="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node9" hideabout="1">
+    <input levelbiashidpi="1.000" overlap="1" height="2000" levelbias="0.400" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" width="2000" leveltilesize="510" levelingpitch="0">
+      <level predecode="0" width="2000" height="2000" preload="0"/>
+      <level predecode="0" width="1000" height="1000" preload="0"/>
+      <level predecode="1" width="500" height="500" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="147.14" tilt="-1.18137" pan="-174.829" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" scaletofit="1" tilt="90" pan="360" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata author="" latitude="35.878269" comment="" info="" nodeid="node9" tags="대구 힐스테이트 달성공원역 101동 1002호 VR촬영" customnodeid="" copyright="" source="" longitude="128.582342" datetime="2024:09:28 19:50:12" description="" title="실외기실" altitude="64.00" heading="0"/>
+    <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
+      <label textcolor="0x000000" borderalpha="1" borderradius="1" backgroundalpha="1" height="20" textalpha="1" enabled="1" border="1" width="180" backgroundcolor="0xffffff" bordercolor="0x000000" background="1" wordwrap="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" url="{node4}" skinid="ht_node" tilt="-24.97" pan="-91.36" title="발코니1" description="" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomspeed="2" type="crossdissolve" zoomafteroutfov="40" zoomin="0" blendcolor="0x000000" zoomafterinfov="140" softedge="0" zoomoutpause="1" enabled="1" zoomout="0" delay="none" blendtime="1"/>
+    <autorotate nodedelay="0.00" speed="0.020" noderandom="1" nodefilter="" returntohorizon="0.000" useanimation="0" enabled="1" horizonfromdefview="0" delay="10.00" startloaded="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control contextprojections="0" rubberband="0" invertcontrol="1" contextvr="1" simulatemass="1" lockedmouse="0" sensitivity="8" contextfullscreen="1" invertwheel="0" zoomcentercursor="1" lockedkeyboardzoom="0" hideabout="1" lockedkeyboard="0" speedwheel="1" lockedwheel="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node2" hideabout="1">
+    <input levelbiashidpi="1.000" overlap="1" height="2000" levelbias="0.400" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" width="2000" leveltilesize="510" levelingpitch="0">
+      <level predecode="0" width="2000" height="2000" preload="0"/>
+      <level predecode="0" width="1000" height="1000" preload="0"/>
+      <level predecode="1" width="500" height="500" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="147.14" tilt="-1.08547" pan="-165.85" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" scaletofit="1" tilt="90" pan="360" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata author="" latitude="35.878269" comment="" info="" nodeid="node2" tags="대구 힐스테이트 달성공원역 101동 1002호 VR촬영" customnodeid="" copyright="" source="" longitude="128.582342" datetime="2024:09:28 19:50:43" description="" title="대피공간" altitude="64.00" heading="0"/>
+    <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
+      <label textcolor="0x000000" borderalpha="1" borderradius="1" backgroundalpha="1" height="20" textalpha="1" enabled="1" border="1" width="180" backgroundcolor="0xffffff" bordercolor="0x000000" background="1" wordwrap="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" url="{node3}" skinid="ht_node" tilt="-27.22" pan="-335.46" title="드레스룸" description="" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomspeed="2" type="crossdissolve" zoomafteroutfov="40" zoomin="0" blendcolor="0x000000" zoomafterinfov="140" softedge="0" zoomoutpause="1" enabled="1" zoomout="0" delay="none" blendtime="1"/>
+    <autorotate nodedelay="0.00" speed="0.020" noderandom="1" nodefilter="" returntohorizon="0.000" useanimation="0" enabled="1" horizonfromdefview="0" delay="10.00" startloaded="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control contextprojections="0" rubberband="0" invertcontrol="1" contextvr="1" simulatemass="1" lockedmouse="0" sensitivity="8" contextfullscreen="1" invertwheel="0" zoomcentercursor="1" lockedkeyboardzoom="0" hideabout="1" lockedkeyboard="0" speedwheel="1" lockedwheel="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node13" hideabout="1">
+    <input levelbiashidpi="1.000" overlap="1" height="2000" levelbias="0.400" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" width="2000" leveltilesize="510" levelingpitch="0">
+      <level predecode="0" width="2000" height="2000" preload="0"/>
+      <level predecode="0" width="1000" height="1000" preload="0"/>
+      <level predecode="1" width="500" height="500" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="147.14" tilt="-2.22824" pan="-168.465" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" scaletofit="1" tilt="90" pan="360" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata author="" latitude="35.878269" comment="" info="" nodeid="node13" tags="대구 힐스테이트 달성공원역 101동 1002호 VR촬영" customnodeid="" copyright="" source="" longitude="128.582342" datetime="2024:09:28 19:49:20" description="" title="복도1" altitude="64.00" heading="0"/>
+    <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
+      <label textcolor="0x000000" borderalpha="1" borderradius="1" backgroundalpha="1" height="20" textalpha="1" enabled="1" border="1" width="180" backgroundcolor="0xffffff" bordercolor="0x000000" background="1" wordwrap="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" url="{node14}" skinid="ht_node" tilt="-13.48" pan="-344.53" title="주방" description="" target=""/>
+      <hotspot id="Point02" url="{node1}" skinid="ht_node" tilt="-19.71" pan="-179.19" title="거실" description="" target=""/>
+      <hotspot id="Point03" url="{node10}" skinid="ht_node" tilt="-11.9" pan="-236.74" title="안방" description="" target=""/>
+      <hotspot id="Point04" url="{node7}" skinid="ht_node" tilt="-23.23" pan="-115.88" title="복도2" description="" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomspeed="2" type="crossdissolve" zoomafteroutfov="40" zoomin="0" blendcolor="0x000000" zoomafterinfov="140" softedge="0" zoomoutpause="1" enabled="1" zoomout="0" delay="none" blendtime="1"/>
+    <autorotate nodedelay="0.00" speed="0.020" noderandom="1" nodefilter="" returntohorizon="0.000" useanimation="0" enabled="1" horizonfromdefview="0" delay="10.00" startloaded="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control contextprojections="0" rubberband="0" invertcontrol="1" contextvr="1" simulatemass="1" lockedmouse="0" sensitivity="8" contextfullscreen="1" invertwheel="0" zoomcentercursor="1" lockedkeyboardzoom="0" hideabout="1" lockedkeyboard="0" speedwheel="1" lockedwheel="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node1" hideabout="1">
+    <input levelbiashidpi="1.000" overlap="1" height="2000" levelbias="0.400" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" width="2000" leveltilesize="510" levelingpitch="0">
+      <level predecode="0" width="2000" height="2000" preload="0"/>
+      <level predecode="0" width="1000" height="1000" preload="0"/>
+      <level predecode="1" width="500" height="500" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="147.14" tilt="-2.48611" pan="-178.901" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" scaletofit="1" tilt="90" pan="360" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata author="" latitude="35.878269" comment="" info="" nodeid="node1" tags="대구 힐스테이트 달성공원역 101동 1002호 VR촬영" customnodeid="" copyright="" source="" longitude="128.582342" datetime="2024:09:28 19:49:10" description="" title="거실" altitude="64.00" heading="0"/>
+    <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
+      <label textcolor="0x000000" borderalpha="1" borderradius="1" backgroundalpha="1" height="20" textalpha="1" enabled="1" border="1" width="180" backgroundcolor="0xffffff" bordercolor="0x000000" background="1" wordwrap="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" url="{node10}" skinid="ht_node" tilt="-14.67" pan="-303.27" title="안방" description="" target=""/>
+      <hotspot id="Point02" url="{node13}" skinid="ht_node" tilt="-19.19" pan="-3.98" title="복도1" description="" target=""/>
+      <hotspot id="Point03" url="{node7}" skinid="ht_node" tilt="-18.11" pan="-56.64" title="복도2" description="" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomspeed="2" type="crossdissolve" zoomafteroutfov="40" zoomin="0" blendcolor="0x000000" zoomafterinfov="140" softedge="0" zoomoutpause="1" enabled="1" zoomout="0" delay="none" blendtime="1"/>
+    <autorotate nodedelay="0.00" speed="0.020" noderandom="1" nodefilter="" returntohorizon="0.000" useanimation="0" enabled="1" horizonfromdefview="0" delay="10.00" startloaded="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control contextprojections="0" rubberband="0" invertcontrol="1" contextvr="1" simulatemass="1" lockedmouse="0" sensitivity="8" contextfullscreen="1" invertwheel="0" zoomcentercursor="1" lockedkeyboardzoom="0" hideabout="1" lockedkeyboard="0" speedwheel="1" lockedwheel="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node14" hideabout="1">
+    <input levelbiashidpi="1.000" overlap="1" height="2000" levelbias="0.400" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" width="2000" leveltilesize="510" levelingpitch="0">
+      <level predecode="0" width="2000" height="2000" preload="0"/>
+      <level predecode="0" width="1000" height="1000" preload="0"/>
+      <level predecode="1" width="500" height="500" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="147.14" tilt="-2.01311" pan="-168.628" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" scaletofit="1" tilt="90" pan="360" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata author="" latitude="35.878269" comment="" info="" nodeid="node14" tags="대구 힐스테이트 달성공원역 101동 1002호 VR촬영" customnodeid="" copyright="" source="" longitude="128.582342" datetime="2024:09:28 19:49:30" description="" title="주방" altitude="64.00" heading="0"/>
+    <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
+      <label textcolor="0x000000" borderalpha="1" borderradius="1" backgroundalpha="1" height="20" textalpha="1" enabled="1" border="1" width="180" backgroundcolor="0xffffff" bordercolor="0x000000" background="1" wordwrap="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" url="{node13}" skinid="ht_node" tilt="-18.08" pan="-350.07" title="복도1" description="" target=""/>
+      <hotspot id="Point02" url="{node5}" skinid="ht_node" tilt="-20.65" pan="-82.63" title="발코니2" description="" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomspeed="2" type="crossdissolve" zoomafteroutfov="40" zoomin="0" blendcolor="0x000000" zoomafterinfov="140" softedge="0" zoomoutpause="1" enabled="1" zoomout="0" delay="none" blendtime="1"/>
+    <autorotate nodedelay="0.00" speed="0.020" noderandom="1" nodefilter="" returntohorizon="0.000" useanimation="0" enabled="1" horizonfromdefview="0" delay="10.00" startloaded="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control contextprojections="0" rubberband="0" invertcontrol="1" contextvr="1" simulatemass="1" lockedmouse="0" sensitivity="8" contextfullscreen="1" invertwheel="0" zoomcentercursor="1" lockedkeyboardzoom="0" hideabout="1" lockedkeyboard="0" speedwheel="1" lockedwheel="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node5" hideabout="1">
+    <input levelbiashidpi="1.000" overlap="1" height="2000" levelbias="0.400" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" width="2000" leveltilesize="510" levelingpitch="0">
+      <level predecode="0" width="2000" height="2000" preload="0"/>
+      <level predecode="0" width="1000" height="1000" preload="0"/>
+      <level predecode="1" width="500" height="500" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="147.14" tilt="-1.99052" pan="-172.256" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" scaletofit="1" tilt="90" pan="360" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata author="" latitude="35.878269" comment="" info="" nodeid="node5" tags="대구 힐스테이트 달성공원역 101동 1002호 VR촬영" customnodeid="" copyright="" source="" longitude="128.582342" datetime="2024:09:28 19:49:40" description="" title="발코니2" altitude="64.00" heading="0"/>
+    <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
+      <label textcolor="0x000000" borderalpha="1" borderradius="1" backgroundalpha="1" height="20" textalpha="1" enabled="1" border="1" width="180" backgroundcolor="0xffffff" bordercolor="0x000000" background="1" wordwrap="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" url="{node14}" skinid="ht_node" tilt="-18.25" pan="-273.26" title="주방" description="" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomspeed="2" type="crossdissolve" zoomafteroutfov="40" zoomin="0" blendcolor="0x000000" zoomafterinfov="140" softedge="0" zoomoutpause="1" enabled="1" zoomout="0" delay="none" blendtime="1"/>
+    <autorotate nodedelay="0.00" speed="0.020" noderandom="1" nodefilter="" returntohorizon="0.000" useanimation="0" enabled="1" horizonfromdefview="0" delay="10.00" startloaded="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control contextprojections="0" rubberband="0" invertcontrol="1" contextvr="1" simulatemass="1" lockedmouse="0" sensitivity="8" contextfullscreen="1" invertwheel="0" zoomcentercursor="1" lockedkeyboardzoom="0" hideabout="1" lockedkeyboard="0" speedwheel="1" lockedwheel="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node7" hideabout="1">
+    <input levelbiashidpi="1.000" overlap="1" height="2000" levelbias="0.400" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" width="2000" leveltilesize="510" levelingpitch="0">
+      <level predecode="0" width="2000" height="2000" preload="0"/>
+      <level predecode="0" width="1000" height="1000" preload="0"/>
+      <level predecode="1" width="500" height="500" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="147.14" tilt="-1.98041" pan="-172.288" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" scaletofit="1" tilt="90" pan="360" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata author="" latitude="35.878269" comment="" info="" nodeid="node7" tags="대구 힐스테이트 달성공원역 101동 1002호 VR촬영" customnodeid="" copyright="" source="" longitude="128.582342" datetime="2024:09:28 19:48:13" description="" title="복도2" altitude="64.00" heading="0"/>
+    <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
+      <label textcolor="0x000000" borderalpha="1" borderradius="1" backgroundalpha="1" height="20" textalpha="1" enabled="1" border="1" width="180" backgroundcolor="0xffffff" bordercolor="0x000000" background="1" wordwrap="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" url="{node15}" skinid="ht_node" tilt="-26.49" pan="-255.76" title="침실1" description="" target=""/>
+      <hotspot id="Point02" url="{node6}" skinid="ht_node" tilt="-25.88" pan="-176.92" title="복도3" description="" target=""/>
+      <hotspot id="Point03" url="{node17}" skinid="ht_node" tilt="-33.34" pan="-112.01" title="팬트리" description="" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomspeed="2" type="crossdissolve" zoomafteroutfov="40" zoomin="0" blendcolor="0x000000" zoomafterinfov="140" softedge="0" zoomoutpause="1" enabled="1" zoomout="0" delay="none" blendtime="1"/>
+    <autorotate nodedelay="0.00" speed="0.020" noderandom="1" nodefilter="" returntohorizon="0.000" useanimation="0" enabled="1" horizonfromdefview="0" delay="10.00" startloaded="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control contextprojections="0" rubberband="0" invertcontrol="1" contextvr="1" simulatemass="1" lockedmouse="0" sensitivity="8" contextfullscreen="1" invertwheel="0" zoomcentercursor="1" lockedkeyboardzoom="0" hideabout="1" lockedkeyboard="0" speedwheel="1" lockedwheel="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node6" hideabout="1">
+    <input levelbiashidpi="1.000" overlap="1" height="2000" levelbias="0.400" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" width="2000" leveltilesize="510" levelingpitch="0">
+      <level predecode="0" width="2000" height="2000" preload="0"/>
+      <level predecode="0" width="1000" height="1000" preload="0"/>
+      <level predecode="1" width="500" height="500" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="147.14" tilt="-1.53233" pan="-166.567" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" scaletofit="1" tilt="90" pan="360" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata author="" latitude="35.878269" comment="" info="" nodeid="node6" tags="대구 힐스테이트 달성공원역 101동 1002호 VR촬영" customnodeid="" copyright="" source="" longitude="128.582342" datetime="2024:09:28 19:48:23" description="" title="복도3" altitude="64.00" heading="0"/>
+    <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
+      <label textcolor="0x000000" borderalpha="1" borderradius="1" backgroundalpha="1" height="20" textalpha="1" enabled="1" border="1" width="180" backgroundcolor="0xffffff" bordercolor="0x000000" background="1" wordwrap="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot id="Point02" url="{node16}" skinid="ht_node" tilt="-22.77" pan="-256.86" title="침실2" description="" target=""/>
+      <hotspot id="Point04" url="{node7}" skinid="ht_node" tilt="-30.22" pan="-346.06" title="복도2" description="" target=""/>
+      <hotspot id="Point01" url="{node11}" skinid="ht_node" tilt="-23.62" pan="-169.57" title="욕실1" description="" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomspeed="2" type="crossdissolve" zoomafteroutfov="40" zoomin="0" blendcolor="0x000000" zoomafterinfov="140" softedge="0" zoomoutpause="1" enabled="1" zoomout="0" delay="none" blendtime="1"/>
+    <autorotate nodedelay="0.00" speed="0.020" noderandom="1" nodefilter="" returntohorizon="0.000" useanimation="0" enabled="1" horizonfromdefview="0" delay="10.00" startloaded="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control contextprojections="0" rubberband="0" invertcontrol="1" contextvr="1" simulatemass="1" lockedmouse="0" sensitivity="8" contextfullscreen="1" invertwheel="0" zoomcentercursor="1" lockedkeyboardzoom="0" hideabout="1" lockedkeyboard="0" speedwheel="1" lockedwheel="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node15" hideabout="1">
+    <input levelbiashidpi="1.000" overlap="1" height="2000" levelbias="0.400" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" width="2000" leveltilesize="510" levelingpitch="0">
+      <level predecode="0" width="2000" height="2000" preload="0"/>
+      <level predecode="0" width="1000" height="1000" preload="0"/>
+      <level predecode="1" width="500" height="500" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="147.14" tilt="-6.63725" pan="-179.17" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" scaletofit="1" tilt="90" pan="360" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata author="" latitude="35.878269" comment="" info="" nodeid="node15" tags="대구 힐스테이트 달성공원역 101동 1002호 VR촬영" customnodeid="" copyright="" source="" longitude="128.582342" datetime="2024:09:28 19:48:51" description="" title="침실1" altitude="64.00" heading="0"/>
+    <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
+      <label textcolor="0x000000" borderalpha="1" borderradius="1" backgroundalpha="1" height="20" textalpha="1" enabled="1" border="1" width="180" backgroundcolor="0xffffff" bordercolor="0x000000" background="1" wordwrap="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" url="{node7}" skinid="ht_node" tilt="-22.51" pan="-346.03" title="복도2" description="" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomspeed="2" type="crossdissolve" zoomafteroutfov="40" zoomin="0" blendcolor="0x000000" zoomafterinfov="140" softedge="0" zoomoutpause="1" enabled="1" zoomout="0" delay="none" blendtime="1"/>
+    <autorotate nodedelay="0.00" speed="0.020" noderandom="1" nodefilter="" returntohorizon="0.000" useanimation="0" enabled="1" horizonfromdefview="0" delay="10.00" startloaded="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control contextprojections="0" rubberband="0" invertcontrol="1" contextvr="1" simulatemass="1" lockedmouse="0" sensitivity="8" contextfullscreen="1" invertwheel="0" zoomcentercursor="1" lockedkeyboardzoom="0" hideabout="1" lockedkeyboard="0" speedwheel="1" lockedwheel="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node16" hideabout="1">
+    <input levelbiashidpi="1.000" overlap="1" height="2000" levelbias="0.400" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" width="2000" leveltilesize="510" levelingpitch="0">
+      <level predecode="0" width="2000" height="2000" preload="0"/>
+      <level predecode="0" width="1000" height="1000" preload="0"/>
+      <level predecode="1" width="500" height="500" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="147.14" tilt="-6.63725" pan="-179.151" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" scaletofit="1" tilt="90" pan="360" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata author="" latitude="35.878269" comment="" info="" nodeid="node16" tags="대구 힐스테이트 달성공원역 101동 1002호 VR촬영" customnodeid="" copyright="" source="" longitude="128.582342" datetime="2024:09:28 19:48:42" description="" title="침실2" altitude="64.00" heading="0"/>
+    <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
+      <label textcolor="0x000000" borderalpha="1" borderradius="1" backgroundalpha="1" height="20" textalpha="1" enabled="1" border="1" width="180" backgroundcolor="0xffffff" bordercolor="0x000000" background="1" wordwrap="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" url="{node6}" skinid="ht_node" tilt="-23.81" pan="-339.31" title="복도3" description="" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomspeed="2" type="crossdissolve" zoomafteroutfov="40" zoomin="0" blendcolor="0x000000" zoomafterinfov="140" softedge="0" zoomoutpause="1" enabled="1" zoomout="0" delay="none" blendtime="1"/>
+    <autorotate nodedelay="0.00" speed="0.020" noderandom="1" nodefilter="" returntohorizon="0.000" useanimation="0" enabled="1" horizonfromdefview="0" delay="10.00" startloaded="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control contextprojections="0" rubberband="0" invertcontrol="1" contextvr="1" simulatemass="1" lockedmouse="0" sensitivity="8" contextfullscreen="1" invertwheel="0" zoomcentercursor="1" lockedkeyboardzoom="0" hideabout="1" lockedkeyboard="0" speedwheel="1" lockedwheel="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node17" hideabout="1">
+    <input levelbiashidpi="1.000" overlap="1" height="2000" levelbias="0.400" leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" width="2000" leveltilesize="510" levelingpitch="0">
+      <level predecode="0" width="2000" height="2000" preload="0"/>
+      <level predecode="0" width="1000" height="1000" preload="0"/>
+      <level predecode="1" width="500" height="500" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="147.14" tilt="-0.401615" pan="-100.087" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" scaletofit="1" tilt="90" pan="360" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata author="" latitude="35.878269" comment="" info="" nodeid="node17" tags="대구 힐스테이트 달성공원역 101동 1002호 VR촬영" customnodeid="" copyright="" source="" longitude="128.582342" datetime="2024:09:28 19:49:00" description="" title="팬트리" altitude="64.00" heading="0"/>
+    <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
+      <label textcolor="0x000000" borderalpha="1" borderradius="1" backgroundalpha="1" height="20" textalpha="1" enabled="1" border="1" width="180" backgroundcolor="0xffffff" bordercolor="0x000000" background="1" wordwrap="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" url="{node7}" skinid="ht_node" tilt="-35.3" pan="-14.21" title="복도2" description="" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomspeed="2" type="crossdissolve" zoomafteroutfov="40" zoomin="0" blendcolor="0x000000" zoomafterinfov="140" softedge="0" zoomoutpause="1" enabled="1" zoomout="0" delay="none" blendtime="1"/>
+    <autorotate nodedelay="0.00" speed="0.020" noderandom="1" nodefilter="" returntohorizon="0.000" useanimation="0" enabled="1" horizonfromdefview="0" delay="10.00" startloaded="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control contextprojections="0" rubberband="0" invertcontrol="1" contextvr="1" simulatemass="1" lockedmouse="0" sensitivity="8" contextfullscreen="1" invertwheel="0" zoomcentercursor="1" lockedkeyboardzoom="0" hideabout="1" lockedkeyboard="0" speedwheel="1" lockedwheel="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node11" hideabout="1">
+    <input levelbiashidpi="1.000" overlap="1" height="2000" levelbias="0.400" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" width="2000" leveltilesize="510" levelingpitch="0">
+      <level predecode="0" width="2000" height="2000" preload="0"/>
+      <level predecode="0" width="1000" height="1000" preload="0"/>
+      <level predecode="1" width="500" height="500" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="147.14" tilt="-4.18364" pan="-179.432" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" scaletofit="1" tilt="90" pan="360" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata author="" latitude="35.878269" comment="" info="" nodeid="node11" tags="대구 힐스테이트 달성공원역 101동 1002호 VR촬영" customnodeid="" copyright="" source="" longitude="128.582342" datetime="2024:09:28 19:48:32" description="" title="욕실1" altitude="64.00" heading="0"/>
+    <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
+      <label textcolor="0x000000" borderalpha="1" borderradius="1" backgroundalpha="1" height="20" textalpha="1" enabled="1" border="1" width="180" backgroundcolor="0xffffff" bordercolor="0x000000" background="1" wordwrap="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" url="{node6}" skinid="ht_node" tilt="-33.06" pan="-335.3" title="복도3" description="" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomspeed="2" type="crossdissolve" zoomafteroutfov="40" zoomin="0" blendcolor="0x000000" zoomafterinfov="140" softedge="0" zoomoutpause="1" enabled="1" zoomout="0" delay="none" blendtime="1"/>
+    <autorotate nodedelay="0.00" speed="0.020" noderandom="1" nodefilter="" returntohorizon="0.000" useanimation="0" enabled="1" horizonfromdefview="0" delay="10.00" startloaded="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control contextprojections="0" rubberband="0" invertcontrol="1" contextvr="1" simulatemass="1" lockedmouse="0" sensitivity="8" contextfullscreen="1" invertwheel="0" zoomcentercursor="1" lockedkeyboardzoom="0" hideabout="1" lockedkeyboard="0" speedwheel="1" lockedwheel="0" dblclickfullscreen="0"/>
+  </panorama>
+  <masternode>
+    <userdata copyright="" author="" comment="84D" description="101동 1002호" tags="" title="힐스테이트달성공원역"/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
